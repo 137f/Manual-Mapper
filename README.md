@@ -8,3 +8,12 @@
 **Em sua aba console, escreva por Mapper.exe [processo alvo] [caminho/local da dll a ser alocada] ( substitua Mapper.exe pelo nome do seu executável compilado pelo Visual Studio )**
 
 **Não se esqueça de compilar para Release | x64**
+
+# Contact
+**Caso queira me contatar ou precise de algum serviço, me encontre nas seguintes plataformas:**
+
+**Discord User: 4wj.**
+
+**Instargram: @glowwz9**
+
+**Email: vliyanie1337@proton.me**
